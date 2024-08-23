@@ -8,6 +8,7 @@ EL proyecto se conforma de dos hojas de informacion: data.py y main.py. En data.
 refente al llenado de la aplicacion. En main.py se encuentra los selectores y las pruebas de la aplicacion.
 
 Un total de 8 pruebas para correr la aplicacion:
+
 test_1_set_route  
 test_2_comfort_button  
 test_3_phone_number  
@@ -17,5 +18,5 @@ test_6_select_blankets_and_handkerchiefs
 test_7_select_ice_cream  
 test_8_wait_for_call_a_taxi_active_button  
 
-Cada prueba cuanta con su titulo respecto a lo que se estara haciendo, previo a correr la pruieba deberas tener
+Cada prueba cuanta con su titulo respecto a lo que se estara haciendo, previo a correr la prueba deberas tener
 descargado Chrome.WebDriver primero, despues colocar el url en data.py por el actual de la aplicacion, correr tests.
