@@ -22,3 +22,6 @@ test_8_wait_for_call_a_taxi_active_button
 Cada prueba cuanta con su titulo respecto a lo que se estara haciendo, previo a correr la prueba deberas tener
 descargado Chrome.WebDriver primero, despues colocar el url en data.py por el actual de la aplicacion, el cual se
 estara corriendo en idioma Ingles para esto se debera colocar el temino de la URL con "/?lng=en" ,y correr tests.
+
+Conclusion:
+El proyecto se realizo cumpliendo con la validacion de cada componente solicitado mediante el uso de pycharm, con las herramientas pytest, Webdriver. Observamos la validacion de cada prueba como aprobada.
